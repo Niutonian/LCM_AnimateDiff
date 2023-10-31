@@ -4,7 +4,7 @@
 
 LCM X ANIMATEDIFF is a workflow designed for ComfyUI that enables you to test the LCM node with AnimateDiff. This workflow showcases the speed and capabilities of LCM when combined with AnimateDiff.
 
-![Screenshot](Screenshot 2023-10-27 214231.png)
+!([Workflow](https://github.com/Niutonian/LCM_AnimateDiff/blob/main/Screenshot%202023-10-27%20214231.png?raw=true))
 
 ## Getting Started
 
